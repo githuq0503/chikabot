@@ -9,7 +9,7 @@ exports.ok = () => {
 exports.err = () => {
     return `‼️Fitur Sedang Error‼️
 
-⏳Sedang melapor bug fitur ke owner-sama⏳`
+⏳Sedang melapor bug fitur ke Leon-sama⏳`
 }
 
 exports.wrongFormat = (prefix) => {
@@ -29,7 +29,7 @@ exports.ownerOnly = () => {
 }
 
 exports.doneOwner = () => {
-    return `✔  ️Sudah selesai, Owner-sama~`
+    return `✔  ️Sudah selesai, Leon-sama~`
 }
 
 exports.groupOnly = () => {
@@ -80,7 +80,7 @@ exports.listMenu = (time, salam, pushname, prefix) => {
     return `
 *Selamat ${salam} ${pushname} 😖*
 *⌚Time Server : ${time}*
-*📚 List-Menu Chika Beta :*
+*📚 List-Menu Yui-Chan :*
 
 🤖 *INFO*
 ├ ${prefix}owner
@@ -172,9 +172,9 @@ Sanksi: *‼️ PERMANENT BLOCK ‼️*
 
 Jika sudah dipahami rules-nya, silakan ketik *${prefix}allmenu* untuk memulai!
 
-⚠️ Segala kebijakan dan ketentuan ChikaBot di pegang oleh owner dan segala perubahan kebijakan, sewaktu waktu owner berhak mencabut, memblokir user(*﹏*) 
+⚠️ Segala kebijakan dan ketentuan ChikaBot di pegang oleh LeonGanz dan segala perubahan kebijakan, sewaktu waktu owner berhak mencabut, memblokir user(*﹏*) 
 
-Arigatou Gozaimasu! Untuk kalian user ramah dan Beberapa orang yg ikut membantu juga dalam project pembuatan chika-bot
+Arigatou Gozaimasu! Untuk kalian user ramah dan Beberapa orang yg ikut membantu juga dalam project pembuatan Yui-Chan
 😖🙏
 
 
@@ -187,7 +187,7 @@ exports.tos = (ownerNumber, prefix) => {
 
 Hai 👋
 Kalian bisa mendukung saya agar bot ini tetap up to date dengan:
-🏧 08127668234 (OVO/Dana/GoPay)
+🏧 085608625102 (OVO/Dana/GoPay)
 
 Berapapun donasi kalian akan sangat berarti 👍
 
